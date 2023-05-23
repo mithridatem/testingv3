@@ -1,0 +1,11 @@
+{ "user":
+  [
+    {"nom": "Test1", "prenom":"Test1", "mail":"test124@test.fr", "password":"1234"},
+    {"nom": "Test2", "prenom":"Test2", "mail":"test125@test.fr", "password":"1234"},
+    {"nom": "Test3", "prenom":"Test3", "mail":"test126@test.fr", "password":"1234"},
+    {"nom": "Test4", "prenom":"Test4", "mail":"test127@test.fr", "password":"1234"},
+    {"nom": "Test5", "prenom":"Test5", "mail":"test128@test.fr", "password":"1234"}
+  ]
+}
+  
+

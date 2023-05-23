@@ -1,0 +1,24 @@
+{
+  "name": "testingv3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "auto_test": "cypress run --browser chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mithridatem/test_cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mithridatem/test_cypress/issues"
+  },
+  "homepage": "https://github.com/mithridatem/test_cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
